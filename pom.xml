@@ -41,8 +41,8 @@
           <version>2.2</version>
              <configuration>
 		     <url>http://localhost:8082/manager/text</url>
-		     <username>tomcat</username>
-		     <password>tomcat123</password>
+		     <username>admin</username>
+		     <password>admin123</password>
 	     </configuration>
 
      </plugin>
